@@ -1,7 +1,8 @@
----
-sidebarDepth=2
----
 # 简介
+[![Jetbrains Plugins][plugin-img]][plugin]
+![Version](https://img.shields.io/jetbrains/plugin/v/16988)
+![Downloads](https://img.shields.io/jetbrains/plugin/d/16988)
+
 [**Restful Fast Request**](https://plugins.jetbrains.com/plugin/16988-fast-request) 是一个基于springmvc的帮助你快速生成**url**和**参数**
 的IDEA 插件。同时也是一个http client工具，你只需要按一下方法左侧的小图标(小火箭),插件就会帮你生成方法的url和参数显示在工具内，再点击发送请求即可在IDEA内完成API调试，并且可以保存历史请求，方便再次使用调试
 
@@ -23,4 +24,8 @@ Spring 体系 (Spring MVC / Spring Boot)
 ## 参与贡献
 欢迎各路好汉一起来参与完善 Restful Fast Request，我们期待你的 PR！
 * 贡献代码：代码地址 [Restful Fast Request](https://github.com/kings1990/fast-request)，欢迎提交 Issue 或者 Pull Requests
-* 维护文档：文档地址 [Document](https://github.com/kings1990/resuful-fast-request-doc)，欢迎参与翻译和修订
+* 维护文档：文档地址 [Document](https://github.com/kings1990/restful-fast-request-doc)，欢迎参与翻译和修订
+
+
+[plugin]: https://plugins.jetbrains.com/plugin/16988
+[plugin-img]: https://img.shields.io/badge/plugin-FastRequest-x.svg

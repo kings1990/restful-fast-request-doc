@@ -43,7 +43,7 @@ module.exports = {
                 nav: [
                     {
                         text: 'Guid',
-                        link: '/guide/'
+                        link: '/en/guide/'
                     },
                     {
                         text: 'Changelog',
@@ -64,8 +64,17 @@ module.exports = {
                     }
                 ],
                 sidebar: {
-                    '/': [/* ... */],
-                    '/nested/': [/* ... */]
+                    '/en/guide/': [{
+                        title: 'Getting started',
+                        collapsable: false,
+                        children: [
+                            '',
+                            'feature',
+                            'install',
+                            'getstarted',
+                            'faq'
+                        ]
+                    }]
                 }
             },
             '/': {
