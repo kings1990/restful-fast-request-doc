@@ -7,7 +7,7 @@ module.exports = {
             'link',
             {
                 rel: 'icon',
-                href: '/fastRequest.svg'
+                href: '/img/fastRequest.svg'
             }
         ]
     ],
