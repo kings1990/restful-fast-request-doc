@@ -19,6 +19,7 @@ footer: Apache License 2.0 | Copyright © 2021-present Kings
 [![Jetbrains Plugins][plugin-img]][plugin]
 ![Version](https://img.shields.io/jetbrains/plugin/v/16988)
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/16988)
+[![QQ群](https://img.shields.io/badge/chat-QQ群:754131222-46BC99.svg?style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=1OEJ5QST4zoEUv0x0OvOmC3TUfAIZXAO)
 
 ### 用插件代替手工 :100:
 ```

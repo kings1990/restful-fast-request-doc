@@ -3,12 +3,9 @@
 ![Version](https://img.shields.io/jetbrains/plugin/v/16988)
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/16988)
 
-[**Restful Fast Request**](https://plugins.jetbrains.com/plugin/16988-fast-request) is a plugin based on springmvc that
-help you quickly generate **url** and **params**.It is also a http client tool.
-You only need to click the rocket icon on the left side of the method, the plugin will help you generate the method url
-and parameters and display in the tool window, and then click Send Request to complete the API debugging in IDEA, and
-you can save the history request
-
+[**Restful Fast Request**](https://plugins.jetbrains.com/plugin/16988-fast-request) is a powerful restful api toolkit plugin help you quickly generate url and params by exist method.
+`Plugin = API debug tool + API manager tool`. It has a beautiful interface to compose requests,inspect server responses,store your api request and export api request
+Plugin help you debug request just in Intellij frame
 
 Compared with the HTTP Client, Restful Fast Request not only has the built-in functions of the HTTP Client, but also
 provides a friendly, easy-to-understand and intuitive interface, which makes it more convenient and simple for users to
