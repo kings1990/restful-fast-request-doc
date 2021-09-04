@@ -69,8 +69,8 @@ module.exports = {
                         collapsable: false,
                         children: [
                             '',
-                            'feature',
                             'install',
+                            'feature',
                             'getstarted',
                             'faq'
                         ]
@@ -113,8 +113,8 @@ module.exports = {
                         collapsable: false,
                         children: [
                             '',
-                            'feature',
                             'install',
+                            'feature',
                             'getstarted',
                             'faq',
                             'donate'
