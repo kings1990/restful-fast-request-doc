@@ -31,4 +31,4 @@ footer: Apache License 2.0 | Copyright © 2021-present Kings
 
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
-[plugin-img]: https://img.shields.io/badge/plugin-FastRequest-x.svg
+[plugin-img]: https://img.shields.io/badge/plugin-Restful_Fast_Request-x.svg
