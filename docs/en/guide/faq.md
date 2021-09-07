@@ -12,3 +12,8 @@ Answer:Please configure the relevant configuration according to the steps introd
 ::: warning Question 3:idea freezes after clicking the icon
 Answer:The entity class you designed is nested and recursive, the plugin does not support  
 :::
+
+::: tip Question 4:Where is the plugin configuration file  
+答:Global configuration:Click on [reference](https://intellij-support.jetbrains.com/hc/en-us/articles/206544519-Directories-used-by-the-IDE-to-store-settings-caches-plugins-and-logs) ,go to the directory of the corresponding version`xxx/options/fastRequest.xml`  
+API collection configuration:`project -> .idea ->fastRequestCollection.xml`  
+:::

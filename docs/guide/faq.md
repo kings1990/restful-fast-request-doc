@@ -12,3 +12,8 @@
 ::: warning 问题3:点击图标后idea卡死 
 答:你设计的实体类嵌套递归,插件不支持
 :::
+
+::: tip 问题4:插件配置文件在哪  
+答:全局配置:点击[参考](https://intellij-support.jetbrains.com/hc/en-us/articles/206544519-Directories-used-by-the-IDE-to-store-settings-caches-plugins-and-logs) ,进入对应版本的目录`xxx/options/fastRequest.xml`  
+API集合配置:`项目 -> .idea -> fastRequestCollection.xml`  
+:::
