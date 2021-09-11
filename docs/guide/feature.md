@@ -45,3 +45,7 @@ API的name值支持修改
 ## CURL 拷贝
 必须是先生存方法url及参数后,点击工具栏![curl](../.vuepress/public/img/icon/curl_dark.svg)
 ![example_download](../.vuepress/public/img/curl.png)
+
+## 快速添加header
+如果你的请求需要一个token而token可以通过一个登陆接口得到,那么你可以不用每次手动添加,只需要访问一下登录接口再通过以下操作来处理
+![fastAddToken](../.vuepress/public/img/fastAddToken.gif)
