@@ -49,6 +49,6 @@ After generate the method url and parameters, click on the toolbar![curl](../../
 ![example_download](../../.vuepress/public/img/curl_en.png)
 
 
-## 快速添加header
+## Quickly add header
 If your request requires a token and the token can be obtained through a login interface, then you don't need to manually add it each time, just visit the login interface and then process it through the following operations
 ![fastAddToken](../../.vuepress/public/img/fastAddToken_en.gif)
