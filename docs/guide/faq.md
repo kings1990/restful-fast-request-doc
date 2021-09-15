@@ -16,4 +16,8 @@
 ::: tip 问题4:插件配置文件在哪  
 答:全局配置:点击[参考](https://intellij-support.jetbrains.com/hc/en-us/articles/206544519-Directories-used-by-the-IDE-to-store-settings-caches-plugins-and-logs) ,进入对应版本的目录`xxx/options/fastRequest.xml`  
 API集合配置:`项目 -> .idea -> fastRequestCollection.xml`  
+
+如果需要在不同idea之间同步配置  
+1.快速导入配置 File->Manage IDE Setting->Import Setting/Export Setting  
+2.同时将fastRequestCollection.xml复制进入.idea文件  
 :::

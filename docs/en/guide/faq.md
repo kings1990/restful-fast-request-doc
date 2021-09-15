@@ -15,5 +15,9 @@ Answer:The entity class you designed is nested and recursive, the plugin does no
 
 ::: tip Question 4:Where is the plugin configuration file  
 答:Global configuration:Click on [reference](https://intellij-support.jetbrains.com/hc/en-us/articles/206544519-Directories-used-by-the-IDE-to-store-settings-caches-plugins-and-logs) ,go to the directory of the corresponding version`xxx/options/fastRequest.xml`  
-API collection configuration:`project -> .idea ->fastRequestCollection.xml`  
+API collection configuration:`project -> .idea ->fastRequestCollection.xml` 
+
+If you need to synchronize configurations between different ideas  
+1.Quick Configuration Import **File->Manage IDE Setting->Import Setting/Export Setting**  
+2.At the same time copy fastRequestCollection.xml file into the .idea file  
 :::
