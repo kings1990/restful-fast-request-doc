@@ -1,7 +1,8 @@
 # Introduction
 [![Jetbrains Plugins][plugin-img]][plugin]
-![Version](https://img.shields.io/jetbrains/plugin/v/16988)
-![Downloads](https://img.shields.io/jetbrains/plugin/d/16988)
+![Version](https://img.shields.io/jetbrains/plugin/v/16988?logo=IntelliJ%20IDEA)
+![Downloads](https://img.shields.io/jetbrains/plugin/d/16988?color=FE2857)
+[![Slack](https://img.shields.io/badge/Slack-%23Fast--Request-DD1265)](https://fastrequest.slack.com)
 
 [**Restful Fast Request**](https://plugins.jetbrains.com/plugin/16988-fast-request) is a powerful restful api toolkit plugin help you quickly generate url and params by exist method.
 `Plugin = API debug tool + API manager tool`. It has a beautiful interface to compose requests,inspect server responses,store your api request and export api request
@@ -35,4 +36,4 @@ all heroes are welcome to join in and improve Restful Fast Request，We look for
 
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
-[plugin-img]: https://img.shields.io/badge/plugin-FastRequest-x.svg
+[plugin-img]: https://img.shields.io/badge/plugin-FastRequest-x.svg?logo=IntelliJ%20IDEA

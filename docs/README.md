@@ -19,8 +19,8 @@ footer: Apache License 2.0 | Copyright © 2021-present Kings
 <a href="https://www.jetbrains.com/idea"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width = "10%" /></a>
 
 [![Jetbrains Plugins][plugin-img]][plugin]
-![Version](https://img.shields.io/jetbrains/plugin/v/16988)
-![Downloads](https://img.shields.io/jetbrains/plugin/d/16988)
+![Version](https://img.shields.io/jetbrains/plugin/v/16988?logo=IntelliJ%20IDEA)
+![Downloads](https://img.shields.io/jetbrains/plugin/d/16988?color=FE2857)
 [![QQ群](https://img.shields.io/badge/chat-QQ群:754131222-46BC99.svg?style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=1OEJ5QST4zoEUv0x0OvOmC3TUfAIZXAO)
 
 ### 用插件代替手工 :100:
@@ -33,4 +33,4 @@ footer: Apache License 2.0 | Copyright © 2021-present Kings
 
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
-[plugin-img]: https://img.shields.io/badge/plugin-Restful_Fast_Request-x.svg
+[plugin-img]: https://img.shields.io/badge/plugin-Restful_Fast_Request-x.svg?logo=IntelliJ%20IDEA

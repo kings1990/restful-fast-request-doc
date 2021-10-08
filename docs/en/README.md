@@ -19,9 +19,9 @@ features:
 <a href="https://www.jetbrains.com/idea"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width = "10%" /></a>
 
 [![Jetbrains Plugins][plugin-img]][plugin]
-![Version](https://img.shields.io/jetbrains/plugin/v/16988)
-![Downloads](https://img.shields.io/jetbrains/plugin/d/16988)
-[![Slack](https://img.shields.io/badge/Slack-%23Fast--Request-red)](https://fastrequest.slack.com)
+![Version](https://img.shields.io/jetbrains/plugin/v/16988?logo=IntelliJ%20IDEA)
+![Downloads](https://img.shields.io/jetbrains/plugin/d/16988?color=FE2857)
+[![Slack](https://img.shields.io/badge/Slack-%23Fast--Request-DD1265)](https://fastrequest.slack.com)
 ### Use plugins instead of manual :100:
 ```
 1.No longer write method parameters by hand anymore
@@ -32,4 +32,4 @@ features:
 
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
-[plugin-img]: https://img.shields.io/badge/plugin-FastRequest-x.svg
+[plugin-img]: https://img.shields.io/badge/plugin-FastRequest-x.svg?logo=IntelliJ%20IDEA

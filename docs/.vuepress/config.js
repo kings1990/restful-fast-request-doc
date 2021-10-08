@@ -44,7 +44,7 @@ module.exports = {
                 label: 'English',
                 nav: [
                     {
-                        text: 'Guid',
+                        text: 'Guide',
                         link: '/en/guide/'
                     },
                     {
