@@ -2,7 +2,7 @@
 [![Jetbrains Plugins][plugin-img]][plugin]
 ![Version](https://img.shields.io/jetbrains/plugin/v/16988?logo=IntelliJ%20IDEA)
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/16988?color=FE2857)
-[![QQ群](https://img.shields.io/badge/chat-QQ群:754131222-46BC99.svg?style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=1OEJ5QST4zoEUv0x0OvOmC3TUfAIZXAO)
+[![QQ群](https://img.shields.io/badge/chat-QQ群:754131222-46BC99.svg?style=flat-square&logo=Tencent%20QQ)](https://qm.qq.com/cgi-bin/qm/qr?k=1OEJ5QST4zoEUv0x0OvOmC3TUfAIZXAO)
 
 [**Restful Fast Request**](https://plugins.jetbrains.com/plugin/16988-fast-request)  是一个强大的restful api工具包插件，可以根据已有的方法帮助您快速生成url和params。`Restful Fast Request = API调试工具+API管理工具`。
 它有一个漂亮的界面来完成请求、检查服务器响应、存储你的api请求和导出api请求。
@@ -34,7 +34,7 @@ Spring 体系 (Spring MVC / Spring Boot)
 ## 联系我们
 更快速得回复问题,可以加入QQ群聊,同时也可以一起探讨研究技术问题
 
-快速加入[![QQ群](https://img.shields.io/badge/chat-QQ群:754131222-46BC99.svg?style=flat-square)](https://qm.qq.com/cgi-bin/qm/qr?k=1OEJ5QST4zoEUv0x0OvOmC3TUfAIZXAO)
+快速加入[![QQ群](https://img.shields.io/badge/chat-QQ群:754131222-46BC99.svg?style=flat-square&logo=Tencent%20QQ)](https://qm.qq.com/cgi-bin/qm/qr?k=1OEJ5QST4zoEUv0x0OvOmC3TUfAIZXAO)
 
 
 
