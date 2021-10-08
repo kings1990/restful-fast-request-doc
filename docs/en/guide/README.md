@@ -24,6 +24,9 @@ Spring framework (Spring MVC / Spring Boot)
 ## Code hosting
 > [Github](https://github.com/kings1990/fast-request) | [Gitee](https://gitee.com/kings/fast-request)
 
+## Recommendation
+If a new version comes out, please update to the latest version as soon as possible(Plugins will always add new features or fix bugs you didn't find during the upgrade process)
+
 ## Participate in contribution
 all heroes are welcome to join in and improve Restful Fast Request，We look forward to your PR！
 * contribute code： [Restful Fast Request](https://github.com/kings1990/fast-request)

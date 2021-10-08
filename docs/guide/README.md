@@ -28,6 +28,9 @@ Spring 体系 (Spring MVC / Spring Boot)
 * 贡献代码：代码地址 [Restful Fast Request](https://github.com/kings1990/fast-request)，欢迎提交 Issue 或者 Pull Requests
 * 维护文档：文档地址 [Document](https://github.com/kings1990/restful-fast-request-doc)，欢迎参与翻译和修订
 
+## 建议
+如果有新版本出来，请尽快更新到最新的版本。(插件往往在升级过程中会加入新的功能或者修复你未发现的bug)
+
 ## 联系我们
 更快速得回复问题,可以加入QQ群聊,同时也可以一起探讨研究技术问题
 

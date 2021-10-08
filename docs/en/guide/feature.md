@@ -12,13 +12,13 @@
 * api to curl
 
 
-## Debug API & send request
+## Debug API & send request<Badge text="2.0.0"/>
 ![example](../../.vuepress/public/img/example_en.gif)
 
-## Send and download
+## Send and download<Badge text="2.0.2" type="error"/>
 ![example_download](../../.vuepress/public/img/downloadFile.gif)
 
-## API List
+## API List<Badge text="2.0.1" type="warning"/>
 
 ::: tip API name value calculate:  
 1.If the method uses swagger annotation **@io.swagger.annotations.ApiOperation**,Then take the value of the annotation  
@@ -32,23 +32,23 @@ API name value supports modification
 ![example_download](../../.vuepress/public/img/apiManager_en.png)
 
 
-## Save Request
+## Save Request<Badge text="2.0.0"/>
 :::tip Special Note  
 The saved request will be put in *Default Group* by default, support drag and drop into other groups  
 :::
 ![example_download](../../.vuepress/public/img/saveRequest_en.png)
 
-## regenetate
+## regenetate<Badge text="2.0.0" type="error"/>
 :::tip Special Note  
 If you have saved a request,But if you want to completely re-modify the parameters, then you can choose this operation  
 :::
 ![example_download](../../.vuepress/public/img/regenerate_en.png)
 
-## CURL copy
+## CURL copy<Badge text="1.1.4" type="warning"/>
 After generate the method url and parameters, click on the toolbar![curl](../../.vuepress/public/img/icon/curl_dark.svg)
 ![example_download](../../.vuepress/public/img/curl_en.png)
 
 
-## Quickly add header
+## Quickly add header<Badge text="2.0.0"/>
 If your request requires a token and the token can be obtained through a login interface, then you don't need to manually add it each time, just visit the login interface and then process it through the following operations
 ![fastAddToken](../../.vuepress/public/img/fastAddToken_en.gif)
