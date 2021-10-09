@@ -33,6 +33,9 @@ all heroes are welcome to join in and improve Restful Fast Request，We look for
 * contribute code： [Restful Fast Request](https://github.com/kings1990/fast-request)
 * maintain documentation： [Document](https://github.com/kings1990/restful-fast-request-doc)
 
+## Platform support
+<a href="https://www.jetbrains.com"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width = "10%" /></a>
+<a href="https://www.jetbrains.com/idea"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width = "10%" /></a>
 
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
