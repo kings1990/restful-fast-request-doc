@@ -22,6 +22,7 @@ footer: Apache License 2.0 | Copyright © 2021-present Kings
 ![Version](https://img.shields.io/jetbrains/plugin/v/16988?logo=IntelliJ%20IDEA)
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/16988?color=FE2857)
 [![QQ群](https://img.shields.io/badge/chat-QQ群:754131222-46BC99.svg?style=flat-square&logo=Tencent%20QQ)](https://qm.qq.com/cgi-bin/qm/qr?k=1OEJ5QST4zoEUv0x0OvOmC3TUfAIZXAO)
+![GitHub](https://img.shields.io/github/license/kings1990/fast-request?color=087CFA)
 
 ### 用插件代替手工 :100:
 ```

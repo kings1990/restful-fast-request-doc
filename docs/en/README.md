@@ -22,6 +22,8 @@ features:
 ![Version](https://img.shields.io/jetbrains/plugin/v/16988?logo=IntelliJ%20IDEA)
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/16988?color=FE2857)
 [![Slack](https://img.shields.io/badge/Slack-%23Fast--Request-DD1265?logo=Slack)](https://fastrequest.slack.com)
+![GitHub](https://img.shields.io/github/license/kings1990/fast-request?color=087CFA)
+
 ### Use plugins instead of manual :100:
 ```
 1.No longer write method parameters by hand anymore
