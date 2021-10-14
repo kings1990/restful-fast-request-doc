@@ -33,7 +33,9 @@ features:
 ```
 
 ::: tip Notice  
-Make sure your IDEA version >= 2020.3+
+Make sure your IDEA version >= 2020.3+  
+
+Of course, if there are any updates to the plugin, please make sure to update it to the latest version
 :::
 
 

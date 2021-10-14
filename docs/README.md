@@ -33,7 +33,9 @@ footer: Apache License 2.0 | Copyright © 2021-present Kings
 ```
 
 ::: tip 注意  
-请确保你的 IDEA版本 版本 >= 2020.3+
+请确保你的 IDEA版本 版本 >= 2020.3+  
+
+当然请如果插件有更新，请确保更新成最新版本
 :::
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
