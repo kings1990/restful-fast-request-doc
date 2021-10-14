@@ -32,6 +32,10 @@ features:
 4.The API and the code are linked, so there is no need to look around
 ```
 
+::: tip Notice  
+Make sure your IDEA version >= 2020.3+
+:::
+
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
 [plugin-img]: https://img.shields.io/badge/plugin-FastRequest-x.svg?logo=IntelliJ%20IDEA

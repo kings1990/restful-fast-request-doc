@@ -32,6 +32,9 @@ footer: Apache License 2.0 | Copyright © 2021-present Kings
 4.API和代码关联起来了,不用到处找了
 ```
 
+::: tip 注意  
+请确保你的 IDEA版本 版本 >= 2020.3+
+:::
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
 [plugin-img]: https://img.shields.io/badge/plugin-Restful_Fast_Request-x.svg?logo=IntelliJ%20IDEA
