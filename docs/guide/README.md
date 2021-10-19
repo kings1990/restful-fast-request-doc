@@ -40,6 +40,7 @@ Spring 体系 (Spring MVC / Spring Boot)
 ## 支持
 <a href="https://www.jetbrains.com"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width = "10%" /></a>
 <a href="https://www.jetbrains.com/idea"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width = "10%" /></a>
+<a href='https://gitee.com/kings/fast-request'><img src='https://gitee.com/kings/fast-request/widgets/widget_3.svg' width = "15%" alt='Fork me on Gitee'></img></a>
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
 [plugin-img]: https://img.shields.io/badge/plugin-Restful_Fast_Request-x.svg?logo=IntelliJ%20IDEA
