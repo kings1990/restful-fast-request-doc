@@ -1,4 +1,6 @@
 # Introduction
+[![](https://badgen.net/badge/Github/fast-request/21D789?icon=github)](https://github.com/kings1990/fast-request)
+[![](https://img.shields.io/static/v1?label=Gitee&message=fast-request&color=FF318C&logo=gitee)](https://gitee.com/kings/fast-request)
 [![Jetbrains Plugins][plugin-img]][plugin]
 ![Version](https://img.shields.io/jetbrains/plugin/v/16988?logo=IntelliJ%20IDEA)
 ![Downloads](https://img.shields.io/jetbrains/plugin/d/16988?color=FE2857)
