@@ -1,4 +1,5 @@
-module.exports = {
+const { config } = require("vuepress-theme-hope");
+module.exports = config({
     plugins: ['@vuepress/nprogress','@vuepress/back-to-top'],
     base : '/restful-fast-request-doc/',
     title: 'Restful Fast Request',
@@ -26,6 +27,10 @@ module.exports = {
         }
     },
     themeConfig: {
+        mdEnhance: {
+          align: true
+        },
+        iconPrefix:'icon-',
         logo:'/img/fastRequest_dark.svg',
         lastUpdated: 'Last Updated',
       // 以下为可选的编辑链接选项
@@ -37,7 +42,7 @@ module.exports = {
       docsBranch: 'master',
       // 默认是 false, 设置为 true 来启用
       editLinks: true,
-        locales: {
+      locales: {
             '/en/': {
 
                 selectText: 'Languages',
@@ -45,11 +50,8 @@ module.exports = {
                 nav: [
                     {
                         text: 'Guide',
-                        link: '/en/guide/'
-                    },
-                    {
-                        text: 'Changelog',
-                        link: 'https://plugins.jetbrains.com/plugin/16988-restful-fast-request/change-log'
+                        link: '/en/guide/',
+                        icon: "config"
                     },
                     {
                         text: 'Code',
@@ -62,7 +64,8 @@ module.exports = {
                                 text: 'Gitee',
                                 link: 'https://gitee.com/kings/fast-request'
                             }
-                        ]
+                        ],
+                        icon: "code"
                     }
                 ],
                 sidebar: {
@@ -72,8 +75,9 @@ module.exports = {
                         children: [
                             '',
                             'install',
-                            'feature',
                             'getstarted',
+                            'feature',
+                            'whatsnew',
                             'faq'
                         ]
                     }]
@@ -89,11 +93,8 @@ module.exports = {
                 nav: [
                     {
                         text: '指南',
-                        link: '/guide/'
-                    },
-                    {
-                        text: '更新日志',
-                        link: 'https://plugins.jetbrains.com/plugin/16988-restful-fast-request/change-log'
+                        link: '/guide/',
+                        icon: "config"
                     },
                     {
                         text: '代码',
@@ -106,7 +107,8 @@ module.exports = {
                                 text: 'Gitee',
                                 link: 'https://gitee.com/kings/fast-request'
                             }
-                        ]
+                        ],
+                        icon: "code"
                     }
                 ],
                 sidebar: {
@@ -116,8 +118,9 @@ module.exports = {
                         children: [
                             '',
                             'install',
-                            'feature',
                             'getstarted',
+                            'feature',
+                            'whatsnew',
                             'faq',
                             'donate'
                         ]
@@ -126,4 +129,4 @@ module.exports = {
             }
         }
     }
-}
+})
