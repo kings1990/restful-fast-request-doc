@@ -7,6 +7,7 @@
 * 添加API保存时候存入对应的模块分组的支持
 * 修复响应中null值不输出的问题
 * 添加对JAX-RS的支持
+* 最新功能展示
 
 
 在不影响使用的情况下,有时候会经常弹出*Light files should have PSI only in one project*.2.0.6版本得到修复
@@ -24,6 +25,11 @@
 
 ::: tip JAX-RS的支持
 ![apiGroup](../.vuepress/public/img/jaxrs.gif)
+:::
+
+::: tip 最新功能展示  
+只会展示一次
+![apiGroup](../.vuepress/public/img/whatsnew.png)
 :::
 
 ## v2.0.5

@@ -7,6 +7,7 @@
 * Added support for saving the API to the corresponding module group
 * Fix null value in response not output
 * Add support for JAX-RS
+* Display what's new
 
 Without affecting the use, sometimes it will pop up "*Light files should have PSI only in one project"*.This has fixed in 2.0.6
 
@@ -23,6 +24,11 @@ Module supports quick search
 
 ::: tip JAX-RS support
 ![apiGroup](../../.vuepress/public/img/jaxrs.gif)
+:::
+
+::: tip Show what's new  
+Will only be shown once
+![apiGroup](../../.vuepress/public/img/whatsnew_en.png)
 :::
 
 ## v2.0.5
