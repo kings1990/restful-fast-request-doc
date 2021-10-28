@@ -29,9 +29,12 @@ Step5:点击发送请求按钮发送请求
 
 自定义类型映射一共需要设置2个值，即解析的类型以及对应的模板值
 
-**Java Type**为对应的对象类型,必须是包含包名和类名,如`com.baomidou.mybatisplus.extension.plugins.pagination.Page`
+**Java Type**为对应的对象类型,必须是包含包名和类名
+```java
+com.baomidou.mybatisplus.extension.plugins.pagination.Page
+```
 
-**Default value**必须是json格式,如
+**Default value**必须是json格式
 ```json
 {"size":10,"current":1}
 ```
