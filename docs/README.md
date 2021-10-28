@@ -21,6 +21,17 @@ meta:
     content: Restful Fast Request,一个基于IDEA的类似postman的restful api工具包插件,可以根据已有的方法帮助您快速生成url和params,一个API调试工具+API管理工具,支持springmvc、springboot、java-rs
 ---
 
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?d5066fafe869c1a1f726f30ef83c3a9e";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
 <a href="https://www.jetbrains.com"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width = "10%" /></a>
 <a href="https://www.jetbrains.com/idea"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width = "10%" /></a>
 
