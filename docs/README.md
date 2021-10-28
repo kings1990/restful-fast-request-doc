@@ -4,8 +4,12 @@ darkHeroImage: /img/fastRequest_dark.svg
 heroImage: /img/fastRequest.svg
 heroText: Restful Fast Request
 tagline: 为简化开发而生
-actionText: 快速上手 →
-actionLink: /guide/
+action:
+      - text: 快速上手 💡
+        link: /guide/
+        type: primary
+      - text: 功能 🚀
+        link: /guide/feature
 features:
 - title: 基于原生
   details: 集成IDEA工具，开源免费

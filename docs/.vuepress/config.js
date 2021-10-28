@@ -30,6 +30,14 @@ module.exports = config({
         mdEnhance: {
           align: true
         },
+        themeColor: {
+              blue: "#087CFA",
+              red: "#FE2857",
+              green: "#21D789",
+              orange: "#FC801D",
+              pink :"#FF318C",
+              lightBlue:"#07C3F2"
+        },
         iconPrefix:'icon-',
         logo:'/img/fastRequest.svg',
         darkLogo:"/img/fastRequest_dark.svg",

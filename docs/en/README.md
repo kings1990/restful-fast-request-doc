@@ -4,8 +4,12 @@ darkHeroImage: /img/fastRequest_dark.svg
 heroImage: /img/fastRequest.svg
 heroText: Restful Fast Request
 tagline: Born To Simplify Development
-actionText: Get Started →
-actionLink: /en/guide/
+action:
+  - text: Get Started 💡
+    link: /en/guide/
+    type: primary
+  - text: Features 🚀
+    link: /en/guide/feature
 features:
 - title: Based on native
   details: integrated idea tool, open source and free
