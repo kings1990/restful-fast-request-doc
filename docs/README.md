@@ -13,6 +13,12 @@ features:
 - title: 功能丰富
   details: 一键生成url和参数、发送API请求、下载文件、存储历史请求、域名定制及切换、字符串生成策略化、自定义参数解析、API转curl等
 footer: Apache License 2.0 | Copyright © 2021-present Kings
+
+meta:
+  - name: keywords
+    content: Restful Fast Request,idea插件,http client,fast request,http,开发工具
+  - name: description
+    content: Restful Fast Request,一个基于IDEA的类似postman的restful api工具包插件,可以根据已有的方法帮助您快速生成url和params,一个API调试工具+API管理工具,支持springmvc、springboot、java-rs
 ---
 
 <a href="https://www.jetbrains.com"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width = "10%" /></a>

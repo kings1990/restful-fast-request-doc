@@ -12,7 +12,12 @@ features:
   details: Only need simple configuration to generate method api request, thus saving a lot of time
 - title: Rich features
   details: Generate url and parameters in one click、send API request、download file、Store history request、Custom parameter parse、API to curl...
-  footer: Apache License 2.0 | Copyright © 2021-present Kings
+footer: Apache License 2.0 | Copyright © 2021-present Kings 
+meta:
+  - name: keywords
+    content: Restful Fast Request,idea plugin,http client,fast request,http,development tools
+  - name: description
+    content: Restful Fast Request,a postman-like restful api toolkit plugin based on IDEA,Can help you quickly generate url and params according to existing methods,An API debugging tool + API management tool.Support springmvc、springboot、java-rs
 ---
 
 <a href="https://www.jetbrains.com"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width = "10%" /></a>
