@@ -31,7 +31,8 @@ module.exports = config({
           align: true
         },
         iconPrefix:'icon-',
-        logo:'/img/fastRequest_dark.svg',
+        logo:'/img/fastRequest.svg',
+        darkLogo:"/img/fastRequest_dark.svg",
         lastUpdated: 'Last Updated',
       // 以下为可选的编辑链接选项
       // 假如你的文档仓库和项目本身不在一个仓库：
