@@ -27,6 +27,7 @@ module.exports = config({
         }
     },
     themeConfig: {
+        breadcrumb: false,
         mdEnhance: {
           align: true
         },
