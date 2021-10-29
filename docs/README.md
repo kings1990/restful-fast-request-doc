@@ -21,7 +21,7 @@ footer: Apache License 2.0 | Copyright © 2021-present Kings
 
 meta:
   - name: keywords
-    content: Restful Fast Request,idea插件,http client,fast request,http,开发工具
+    content: idea插件,http client,Restful API
   - name: description
     content: Restful Fast Request,一个基于IDEA的类似postman的restful api工具包插件,可以根据已有的方法帮助您快速生成url和params,一个API调试工具+API管理工具,支持springmvc、springboot、java-rs
 ---
