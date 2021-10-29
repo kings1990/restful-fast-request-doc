@@ -24,6 +24,8 @@ meta:
     content: idea插件,http client,Restful API
   - name: description
     content: Restful Fast Request,一个基于IDEA的类似postman的restful api工具包插件,可以根据已有的方法帮助您快速生成url和params,一个API调试工具+API管理工具,支持springmvc、springboot、java-rs
+  - name: baidu-site-verification
+    content: code-1WfZa7vLJl
 ---
 
 <a href="https://www.jetbrains.com"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" width = "10%" /></a>
