@@ -1,6 +1,5 @@
 ---
 home: true
-darkHeroImage: /img/fastRequest_dark.svg
 heroImage: /img/fastRequest.svg
 heroText: Restful Fast Request
 tagline: Born To Simplify Development

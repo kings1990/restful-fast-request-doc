@@ -9,8 +9,10 @@
 * 管理API(搜索过滤、修改API名称)
 * 一键定位历史保存的API到方法
 * API转curl
-* 自动将API关联到模块分组<Badge text="new" />
-* 内置Json参数编辑器<Badge text="new" />
+* 自动将API关联到模块分组
+* 内置Json参数编辑器
+* API导航树<Badge text="new" />
+* Headers分组<Badge text="new" />
 
 ## 调试API发送请求<Badge text="2.0.0"/>
 ![example](../.vuepress/public/img/example.gif)
@@ -69,3 +71,18 @@ api分组是为了将保存的api保存到不同分组以便区分不同的api,�
 右上角提供了json语法检查,如果输入有误会提示对应的错误  
 当然也支持格式化等操作  
 ![json](../.vuepress/public/img/json.png)
+
+## API导航树<Badge text="2.0.7"/>
+选中树输入关键字,再按回车或者鼠标左键双击即可定位到API
+
+![apinavi](../.vuepress/public/img/apinav.gif)
+
+## Headers分组<Badge text="2.0.7"/>
+```
+场景:spring等多模块项目不同项目、不同环境下头参数不同,为了快速自动切换headers,引入了header分组
+操作方式：
+1.在headers group里修改约束:输入的值必须是标准json格式
+2.直接切换环境，然后再headers表格中输入对应的key、value值
+```
+
+![headerSwitch](../.vuepress/public/img/headerSwitch.gif)

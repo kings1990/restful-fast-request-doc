@@ -10,8 +10,10 @@
 * Management API (search filter, modify API name)
 * one click location history save api to method
 * api to curl
-* Built-in Json parameter editor<Badge text="new" />
-* Automatically associate APIs to module groups<Badge text="new" />
+* Built-in Json parameter editor
+* Automatically associate APIs to module groups
+* API navigate tree<Badge text="new" />
+* Headers group<Badge text="new" />
 
 
 ## Debug API & send request<Badge text="2.0.0"/>
@@ -73,3 +75,17 @@ Module supports quick search(Put the cursor on the list and enter keywords)
 The upper right corner of the json parameter input box provides a json syntax check. If the json is incorrect, the corresponding error will be prompted  
 Of course it also supports formatting and other operations  
 ![json](../../.vuepress/public/img/json_en.png)
+
+## API navigate tree<Badge text="2.0.7"/>
+Select the tree and enter keywords,Press Enter again or double-click the left mouse button to locate the API
+![apinavi](../../.vuepress/public/img/apinav.gif)
+
+## Headers group(Automatic switching)<Badge text="2.0.7"/>
+```
+Scenes:Multi-module projects such as spring have different header parameters in different projects and different environments. In order to quickly switch headers, header grouping is introduced.  
+Operation method：
+1.Modify in the headers group, constraint: the input value must be in standard json format
+2.Switch the environment or project name directly, and then enter the corresponding key and value values in the headers form
+```
+
+![headerSwitch](../../.vuepress/public/img/headerSwitch.gif)

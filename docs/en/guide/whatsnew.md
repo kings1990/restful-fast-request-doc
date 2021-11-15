@@ -1,5 +1,36 @@
 # What's new
 
+## 2.0.7
+* Add support for api navigate tree
+* Add support for automatic switching of Headers with project and environment switching
+* Optimized Windows system. In some cases, downloading files cannot pop up the directory
+* Optimize the parameter parse of @RequestParam
+* Add confirm operation when delete Delete project and env config
+* Fix the order of json field output is disrupted
+
+:::tip Add support for api navigate tree
+Select the tree and enter keywords,Press Enter again or double-click the left mouse button to locate the API
+
+![apinavi](../../.vuepress/public/img/apinav.gif)
+:::
+
+:::tip Headers Automatic switching
+```
+Scenes:Multi-module projects such as spring have different header parameters in different projects and different environments. In order to quickly switch headers, header grouping is introduced.  
+Operation method：
+1.Modify in the headers group, constraint: the input value must be in standard json format
+2.Switch the environment or project name directly, and then enter the corresponding key and value values in the headers form
+```
+
+![headerSwitch](../../.vuepress/public/img/headerSwitch.gif)
+:::
+
+:::tip Optimize the parameter parse of @RequestParam
+@RequestParam parameters will be prioritized according to the alias  
+`@RequestParam("nameAlias")List<String> nameList` param name will be nameAlias
+:::
+
+
 ## 2.0.6
 * Fix "Light files should have PSI only in one project"
 * Add support for json syntax check

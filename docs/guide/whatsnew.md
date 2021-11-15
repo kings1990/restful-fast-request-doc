@@ -1,5 +1,37 @@
 # 最新变化
 
+## v2.0.7
+* 添加API导航树
+* 添加Headers随项目和环境切换自动切换的支持
+* 优化windows系统某些情况下下载文件无法弹出目录
+* 优化@RequestParam的参数解析
+* 删除project和env配置增加确认操作
+* 修复json字段输出循序被打乱
+
+:::tip 添加API导航树
+选中树输入关键字,再按回车或者鼠标左键双击即可定位到API
+
+![apinavi](../.vuepress/public/img/apinav.gif)
+:::
+
+:::tip Headers自动切换
+```
+场景:spring等多模块项目不同项目、不同环境下头参数不同,为了快速自动切换headers,引入了header分组
+操作方式：
+1.在headers group里修改约束:输入的值必须是标准json格式
+2.直接切换环境,然后再headers表格中输入对应的key、value值
+```
+
+![headerSwitch](../.vuepress/public/img/headerSwitch.gif)
+:::
+
+:::tip 优化@RequestParam的参数解析
+@RequestParam注解的参数将优先按照别名  
+`@RequestParam("nameAlias")List<String> nameList` 输入参数将变成nameAlias  
+:::
+
+
+
 ## v2.0.6
 * Fix "Light files should have PSI only in one project"
 * 添加对json的语法支持
