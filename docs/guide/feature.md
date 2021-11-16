@@ -48,14 +48,17 @@ API的name值支持修改
 
 ## CURL 拷贝<Badge text="1.1.4" type="warning"/>
 必须是先生存方法url及参数后,点击工具栏![curl](../.vuepress/public/img/icon/curl_dark.svg)
+
 ![curl](../.vuepress/public/img/curl.png)
 
 ## 快速添加header<Badge text="2.0.0" />
 如果你的请求需要一个token而token可以通过一个登陆接口得到,那么你可以不用每次手动添加,只需要访问一下登录接口再通过以下操作来处理
+
 ![fastAddToken](../.vuepress/public/img/fastAddToken.gif)
 
 ## API分组自动关联<Badge text="2.0.6" type="warning"/>
 api分组是为了将保存的api保存到不同分组以便区分不同的api,当处于多模块的项目情况下,支持扫秒项目中的module,并且快速得将module添加到分组中,这种方式会将分组添加到root下
+
 ![apiGroup](../.vuepress/public/img/apiGroup.gif)
 
 :::tip 特别说明
@@ -69,7 +72,8 @@ api分组是为了将保存的api保存到不同分组以便区分不同的api,�
 
 ## Json语法检查 <Badge text="2.0.6" type="error"/>
 右上角提供了json语法检查,如果输入有误会提示对应的错误  
-当然也支持格式化等操作  
+当然也支持格式化等操作
+
 ![json](../.vuepress/public/img/json.png)
 
 ## API导航树<Badge text="2.0.7"/>

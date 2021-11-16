@@ -51,15 +51,18 @@ If you have saved a request,But if you want to completely re-modify the paramete
 
 ## CURL copy<Badge text="1.1.4" type="warning"/>
 After generate the method url and parameters, click on the toolbar![curl](../../.vuepress/public/img/icon/curl_dark.svg)
+
 ![curl](../../.vuepress/public/img/curl_en.png)
 
 
 ## Quickly add header<Badge text="2.0.0"/>
 If your request requires a token and the token can be obtained through a login interface, then you don't need to manually add it each time, just visit the login interface and then process it through the following operations
+
 ![fastAddToken](../../.vuepress/public/img/fastAddToken_en.gif)
 
 ## API group automatic association<Badge text="2.0.6" type="warning"/>
 The API group is to save the saved apis into different groups to distinguish different apis,When in a multi-module project,plugin support scan modules in projects,and quickly add the module name to the group, this way will add the group to the root group
+
 ![apiGroup](../../.vuepress/public/img/apiGroup_en.gif)
 
 :::tip Special Note
@@ -69,15 +72,18 @@ The API group is to save the saved apis into different groups to distinguish dif
 :::
 
 Module supports quick search(Put the cursor on the list and enter keywords)
+
 ![moduleSearch](../../.vuepress/public/img/moduleSearch.gif)
 
 ## Json grammar check<Badge text="2.0.6" type="error"/>
 The upper right corner of the json parameter input box provides a json syntax check. If the json is incorrect, the corresponding error will be prompted  
-Of course it also supports formatting and other operations  
+Of course it also supports formatting and other operations
+
 ![json](../../.vuepress/public/img/json_en.png)
 
 ## API navigate tree<Badge text="2.0.7"/>
 Select the tree and enter keywords,Press Enter again or double-click the left mouse button to locate the API
+
 ![apinavi](../../.vuepress/public/img/apinav.gif)
 
 ## Headers group(Automatic switching)<Badge text="2.0.7"/>
