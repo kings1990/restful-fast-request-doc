@@ -5,6 +5,8 @@
 * 添加Headers随项目和环境切换自动切换的支持
 * 优化windows系统某些情况下下载文件无法弹出目录
 * 优化@RequestParam的参数解析
+* curl拷贝提示优化
+* regenerate提示优化
 * 删除project和env配置增加确认操作
 * 修复json字段输出循序被打乱
 

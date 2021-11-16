@@ -5,6 +5,8 @@
 * Add support for automatic switching of Headers with project and environment switching
 * Optimized Windows system. In some cases, downloading files cannot pop up the directory
 * Optimize the parameter parse of @RequestParam
+* Optimize the prompt message of curl copy
+* Optimize the prompt message of curl regenerate
 * Add confirm operation when delete Delete project and env config
 * Fix the order of json field output is disrupted
 
