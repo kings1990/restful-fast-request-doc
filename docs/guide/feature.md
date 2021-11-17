@@ -36,7 +36,17 @@ API的name值支持修改
 
 ## 保存请求<Badge text="2.0.0"/>
 :::tip 特别说明
-保存的请求默认会放入*Default Group*中,支持拉拽放入别的组
+1.保存的请求默认会放入*Default Group*中,支持拉拽放入别的组,当然最好是加入module分组,请查看api分组自动关联
+
+2.API取名:如果api使用了swagger注解`@ApiOperation("xxx")`,则api取名xxx,如果没加swagger注解,则使用javadoc作为api的名称,否则将取名New Request
+```
+if (@ApiOperation("xxx"))
+    apiName = xxx
+else if(java doc)
+    apiName = java doc
+else 
+    apiName = New Request       
+```
 :::
 ![example_download](../.vuepress/public/img/saveRequest.png)
 
@@ -68,6 +78,7 @@ api分组是为了将保存的api保存到不同分组以便区分不同的api,�
 :::
 
 模块支持快速搜索(光标焦点放在列表上输入关键字即可)
+
 ![moduleSearch](../.vuepress/public/img/moduleSearch.gif)
 
 ## Json语法检查 <Badge text="2.0.6" type="error"/>
