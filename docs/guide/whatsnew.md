@@ -9,6 +9,7 @@
 * regenerate提示优化
 * 删除project和env配置增加确认操作
 * 修复json字段输出循序被打乱
+* 界面美化
 
 :::tip 添加API导航树
 选中树输入关键字,再按回车或者鼠标左键双击即可定位到API
@@ -18,7 +19,7 @@
 
 :::tip Headers自动切换
 ```
-场景:spring等多模块项目不同项目、不同环境下头参数不同,为了快速自动切换headers,引入了header分组
+场景:SpringBoot等多模块项目不同项目、不同环境下头参数不同,为了快速自动切换headers,引入了header分组
 操作方式：
 1.在headers group里修改约束:输入的值必须是标准json格式
 2.直接切换环境,然后再headers表格中输入对应的key、value值

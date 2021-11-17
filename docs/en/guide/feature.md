@@ -88,7 +88,7 @@ Select the tree and enter keywords,Press Enter again or double-click the left mo
 
 ## Headers group(Automatic switching)<Badge text="2.0.7"/>
 ```
-Scenes:Multi-module projects such as spring have different header parameters in different projects and different environments. In order to quickly switch headers, header grouping is introduced.  
+Scenes:Multi-module projects such as SpringBoot have different header parameters in different projects and different environments. In order to quickly switch headers, header grouping is introduced.  
 Operation method：
 1.Modify in the headers group, constraint: the input value must be in standard json format
 2.Switch the environment or project name directly, and then enter the corresponding key and value values in the headers form

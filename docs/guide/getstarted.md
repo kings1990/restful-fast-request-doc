@@ -11,14 +11,17 @@ Step5:点击发送请求按钮发送请求
 
 ## 项目/环境/域名
 设置映射关系，配置对应项目下对应环境的url前缀地址
+
 ![](../.vuepress/public/img/projectEnvUrl.png)
 
 
 ## String生成策略
+```
 策略
 * name+random(字段名加随机字符串)
 * random(随机字符串)
 * none(不生成)
+```
 
 ::: tip example
 ![](../.vuepress/public/img/stringGenerate.png)
@@ -57,13 +60,12 @@ com.baomidou.mybatisplus.extension.plugins.pagination.Page
 @RequestMapping("/api/${api-module}/user")
 @Controller
 public class XxxController(){
-  ...
+  //code ...
 }
 ```
 
-实际的url是`/api/base/user`
+实际的url是`/api/base/user`,那么可以通过以下配置来替换`${api-module}`变量
 
-那么可以通过以下配置来替换`${api-module}`变量
 ![](../.vuepress/public/img/otherConfig.png)
 
 ## 类型ICON映射

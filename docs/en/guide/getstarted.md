@@ -11,14 +11,17 @@ Step5:click send button for sending request
 
 ## Project/Env/Domain
 Set up the mapping relationship,Configure the URL prefix address of the corresponding environment under the corresponding project
+
 ![](../../.vuepress/public/img/projectEnvUrl_en.png)
 
 
 ## String generation strategy
+```
 strategy
 * name+random(field name + random string)
 * random(random string)
 * none(not generate)
+```
 
 ::: tip example
 ![](../../.vuepress/public/img/stringGenerate_en.png)
@@ -56,13 +59,12 @@ controller url fixed variable can replace by config, For example controller like
 @RequestMapping("/api/${api-module}/user")
 @Controller
 public class XxxController(){
-  ...
+  //code ...
 }
 ```
 
-the actual url is `/api/base/user`
+the actual url is `/api/base/user`,Then `${api-module}` can be replaced by the following configuration
 
-Then `${api-module}` can be replaced by the following configuration
 ![](../../.vuepress/public/img/otherConfig_en.png)
 
 ## Icon and type mapping
