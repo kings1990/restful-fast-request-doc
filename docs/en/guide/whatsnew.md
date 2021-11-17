@@ -11,7 +11,7 @@
 * Fix the order of json field output is disrupted
 * Interface beautification
 
-:::tip Add support for api navigate tree
+:::tip API navigate tree
 Select the tree and enter keywords,Press Enter again or double-click the left mouse button to locate the API
 
 ![apinavi](../../.vuepress/public/img/apinav.gif)

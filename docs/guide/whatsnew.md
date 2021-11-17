@@ -11,7 +11,7 @@
 * 修复json字段输出循序被打乱
 * 界面美化
 
-:::tip 添加API导航树
+:::tip API导航树
 选中树输入关键字,再按回车或者鼠标左键双击即可定位到API
 
 ![apinavi](../.vuepress/public/img/apinav.gif)
