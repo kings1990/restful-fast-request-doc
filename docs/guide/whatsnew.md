@@ -5,11 +5,12 @@
 * 添加Headers随项目和环境切换自动切换的支持
 * 优化windows系统某些情况下下载文件无法弹出目录
 * 优化@RequestParam的参数解析
+* 优化工具窗口project和env下拉组件及布局
 * curl拷贝提示优化
 * regenerate提示优化
 * 删除project和env配置增加确认操作
 * 修复json字段输出循序被打乱
-* 界面美化
+* 将发送请求按钮至工具栏同时支持快捷键
 
 :::tip API导航树
 选中树输入关键字,再按回车或者鼠标左键双击即可定位到API
@@ -33,6 +34,25 @@
 `@RequestParam("nameAlias")List<String> nameList` 输入参数将变成nameAlias  
 :::
 
+:::tip 将发送请求按钮至工具栏同时支持快捷键
+```
+send request: alt =
+send and download: alt -  
+```
+
+![toolbarSend](../.vuepress/public/img/toolbarSend.png)
+:::
+
+:::tip 优化工具窗口project和env下拉组件及布局
+```
+图标p代表project
+图标e代表environment  
+```
+
+![dropdownProject](../.vuepress/public/img/dropdownProject.png)
+
+![dropdownEnv](../.vuepress/public/img/dropdownEnv.png)
+:::
 
 
 ## v2.0.6

@@ -5,11 +5,12 @@
 * Add support for automatic switching of Headers with project and environment switching
 * Optimized Windows system. In some cases, downloading files cannot pop up the directory
 * Optimize the parameter parse of @RequestParam
+* Optimize tool window project and env drop-down components and layout
 * Optimize the prompt message of curl copy
 * Optimize the prompt message of curl regenerate
 * Add confirm operation when delete project and env config
 * Fix the order of json field output is disrupted
-* Interface beautification
+* Move send button to toolbar and support keyboard shortcut
 
 :::tip API navigate tree
 Select the tree and enter keywords,Press Enter again or double-click the left mouse button to locate the API
@@ -31,6 +32,27 @@ Operation method：
 :::tip Optimize the parameter parse of @RequestParam
 @RequestParam parameters will be prioritized according to the alias  
 `@RequestParam("nameAlias")List<String> nameList` param name will be nameAlias
+:::
+
+
+:::tip Move send button to toolbar and support keyboard shortcut
+```
+send request: alt =
+send and download: alt -  
+```
+
+![toolbarSend](../../.vuepress/public/img/toolbarSend.png)
+:::
+
+:::tip Optimize tool window project and env drop-down box and layout
+```
+Icon p represents project
+Icon e represents environment  
+```
+
+![dropdownProject](../../.vuepress/public/img/dropdownProject.png)
+
+![dropdownEnv](../../.vuepress/public/img/dropdownEnv.png)
 :::
 
 

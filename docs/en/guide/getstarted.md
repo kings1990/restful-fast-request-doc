@@ -14,6 +14,10 @@ Set up the mapping relationship,Configure the URL prefix address of the correspo
 
 ![](../../.vuepress/public/img/projectEnvUrl_en.png)
 
+![dropdownProject](../../.vuepress/public/img/dropdownProject.png)
+
+![dropdownEnv](../../.vuepress/public/img/dropdownEnv.png)
+
 
 ## String generation strategy
 ```

@@ -14,6 +14,9 @@ Step5:点击发送请求按钮发送请求
 
 ![](../.vuepress/public/img/projectEnvUrl.png)
 
+![dropdownProject](../.vuepress/public/img/dropdownProject.png)
+
+![dropdownEnv](../.vuepress/public/img/dropdownEnv.png)
 
 ## String生成策略
 ```
