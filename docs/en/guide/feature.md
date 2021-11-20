@@ -92,7 +92,11 @@ Of course it also supports formatting and other operations
 ![json](../../.vuepress/public/img/json_en.png)
 
 ## API navigate tree<Badge text="2.0.7"/>
+```
 Select the tree and enter keywords,Press Enter again or double-click the left mouse button to locate the API
+
+Hover the mouse to display the doc of the api
+```
 
 ![apinavi](../../.vuepress/public/img/apinav.gif)
 

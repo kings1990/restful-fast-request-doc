@@ -13,7 +13,11 @@
 * 将发送请求按钮至工具栏同时支持快捷键
 
 :::tip API导航树
+```
 选中树输入关键字,再按回车或者鼠标左键双击即可定位到API
+
+悬浮鼠标显示api的doc
+```
 
 ![apinavi](../.vuepress/public/img/apinav.gif)
 :::
@@ -37,7 +41,8 @@
 :::tip 将发送请求按钮至工具栏同时支持快捷键
 ```
 send request: alt =
-send and download: alt -  
+send and download: alt -
+前提条件:工具窗口需要被聚焦
 ```
 
 ![toolbarSend](../.vuepress/public/img/toolbarSend.png)

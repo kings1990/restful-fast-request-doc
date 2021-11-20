@@ -1,6 +1,6 @@
 # What's new
 
-## 2.0.7
+## v2.0.7
 * Add support for api navigate tree
 * Add support for automatic switching of Headers with project and environment switching
 * Optimized Windows system. In some cases, downloading files cannot pop up the directory
@@ -13,14 +13,19 @@
 * Move send button to toolbar and support keyboard shortcut
 
 :::tip API navigate tree
+```
 Select the tree and enter keywords,Press Enter again or double-click the left mouse button to locate the API
+
+Hover the mouse to display the doc of the api
+```
 
 ![apinavi](../../.vuepress/public/img/apinav.gif)
 :::
 
 :::tip Headers Automatic switching
 ```
-Scenes:Multi-module projects such as SpringBoot have different header parameters in different projects and different environments. In order to quickly switch headers, header grouping is introduced.  
+Scenes:Multi-module projects such as SpringBoot have different header parameters in different projects and different environments. 
+In order to quickly switch headers, header grouping is coming.  
 Operation method：
 1.Modify in the headers group, constraint: the input value must be in standard json format
 2.Switch the environment or project name directly, and then enter the corresponding key and value values in the headers form
@@ -39,6 +44,7 @@ Operation method：
 ```
 send request: alt =
 send and download: alt -  
+Prerequisites:Tool window needs to be focused
 ```
 
 ![toolbarSend](../../.vuepress/public/img/toolbarSend.png)
@@ -56,7 +62,7 @@ Icon e represents environment
 :::
 
 
-## 2.0.6
+## v2.0.6
 * Fix "Light files should have PSI only in one project"
 * Add support for json syntax check
 * Add support for PATCH method
