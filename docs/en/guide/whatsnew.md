@@ -14,7 +14,8 @@
 
 :::tip API navigate tree
 ```
-Select the tree and enter keywords,Press Enter again or double-click the left mouse button to locate the API
+Select the tree and enter keywords
+Press Enter again or double-click the left mouse button to locate the API
 
 Hover the mouse to display the doc of the api
 ```
