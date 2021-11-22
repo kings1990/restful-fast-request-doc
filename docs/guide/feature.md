@@ -19,6 +19,7 @@
 
 ## 针对响应是文件的API<Badge text="2.0.2" type="error"/>
 点击Send and download
+
 ![example_download](../.vuepress/public/img/downloadFile.gif)
 
 ## API列表<Badge text="2.0.1" type="warning"/>
@@ -54,6 +55,7 @@ else
 :::tip 特别说明
 如果你已经保存一个请求,但是想彻底重新修改其中的参数,那么你可以选择该操作
 :::
+
 ![regenerate](../.vuepress/public/img/regenerate.png)
 
 ## CURL 拷贝<Badge text="1.1.4" type="warning"/>
