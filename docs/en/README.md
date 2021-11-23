@@ -19,7 +19,7 @@ features:
 footer: Apache License 2.0 | Copyright © 2021-present Kings 
 meta:
   - name: keywords
-    content: idea plugin,http client,Restful API
+    content: Restful Fast Request,idea plugin,http client,Restful API
   - name: description
     content: Restful Fast Request,a postman-like restful api toolkit plugin based on IDEA,Can help you quickly generate url and params according to existing methods,An API debugging tool + API management tool.Support springmvc、springboot、java-rs
 ---
