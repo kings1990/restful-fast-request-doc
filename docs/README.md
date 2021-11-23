@@ -53,6 +53,8 @@ meta:
 当然请如果插件有更新，请确保更新成最新版本
 :::
 
+<iframe frameborder="none" width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/16988"></iframe>
+<br/>
 <iframe frameborder="none" width="384px" height="330px" src="https://plugins.jetbrains.com/embeddable/card/16988"></iframe>
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988

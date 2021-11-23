@@ -52,6 +52,8 @@ Make sure your IDEA version >= 2020.3+
 Of course, if there are any updates to the plugin, please make sure to update it to the latest version
 :::
 
+<iframe frameborder="none" width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/16988"></iframe>
+<br/>
 <iframe frameborder="none" width="384px" height="330px" src="https://plugins.jetbrains.com/embeddable/card/16988"></iframe>
 
 [plugin]: https://plugins.jetbrains.com/plugin/16988
